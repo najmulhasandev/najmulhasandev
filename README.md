@@ -243,21 +243,30 @@ Caregiver booking platform with cascading location selectors (district → sub-d
 
 ## GitHub Activity
 
-<img height="160" src="https://github-readme-stats-three-chi-41.vercel.app/api?username=najmulhasandev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" />
-&nbsp;
-<img height="160" src="https://github-readme-stats-three-chi-41.vercel.app/api/top-langs/?username=najmulhasandev&layout=compact&theme=github_dark&hide_border=true&langs_count=7&title_color=58a6ff&bg_color=0d1117" />
+<!-- github-activity:start -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-dark.svg" />
+    <img width="800" alt="GitHub statistics: contributions in the last 12 months, current streak, longest streak, public repositories and stars." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-light.svg" />
+  </picture>
+</p>
 
-<br/><br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/languages-dark.svg" />
+    <img width="800" alt="Top languages by bytes across owned public repositories, as percentages." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/languages-light.svg" />
+  </picture>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=najmulhasandev&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&background=0d1117" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/heatmap-dark.svg" />
+    <img width="800" alt="Contribution heatmap for the last 12 months. Each cell is one day." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/heatmap-light.svg" />
+  </picture>
+</p>
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center"><sub>Last 12 months · today counts toward the streak once it has activity · Source: GitHub, refreshed by a scheduled workflow</sub></p>
+<!-- github-activity:end -->
 
 </div>
 
