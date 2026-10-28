@@ -247,14 +247,14 @@ Caregiver booking platform with cascading location selectors (district → sub-d
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-dark.svg" />
-    <img width="800" alt="GitHub statistics for najmulhasandev: 639 contributions in the last 12 months; current streak 1 day; longest streak in that period 12 days; 36 public repositories excluding forks; 7 stars on them." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-light.svg" />
+    <img width="800" alt="GitHub statistics for najmulhasandev: 647 contributions in the last 12 months; current streak 1 day; longest streak in that period 12 days; 36 public repositories excluding forks; 7 stars on them." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-light.svg" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/languages-dark.svg" />
-    <img width="800" alt="Top languages by bytes across owned public repositories: JavaScript 45.3%, TypeScript 28.2%, Kotlin 15.8%, HTML 6.0%, CSS 4.3%, Python 0.3%, other 0.1%." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/languages-light.svg" />
+    <img width="800" alt="Top languages by bytes across owned public repositories: JavaScript 45.3%, TypeScript 28.1%, Kotlin 15.8%, HTML 6.1%, CSS 4.3%, Python 0.3%, other 0.1%." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/languages-light.svg" />
   </picture>
 </p>
 
@@ -265,7 +265,7 @@ Caregiver booking platform with cascading location selectors (district → sub-d
   </picture>
 </p>
 
-<p align="center"><sub>Last 12 months · today counts toward the streak once it has activity · Source: GitHub, updated 2026-10-28 12:24 UTC</sub></p>
+<p align="center"><sub>Last 12 months · today counts toward the streak once it has activity · Source: GitHub, updated 2026-10-28 22:31 UTC</sub></p>
 <!-- github-activity:end -->
 
 </div>
