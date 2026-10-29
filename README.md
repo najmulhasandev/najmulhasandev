@@ -247,7 +247,7 @@ Caregiver booking platform with cascading location selectors (district → sub-d
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-dark.svg" />
-    <img width="800" alt="GitHub statistics for najmulhasandev: 647 contributions in the last 12 months; current streak 1 day (through yesterday); longest streak in that period 12 days; 36 public repositories excluding forks; 7 stars on them." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-light.svg" />
+    <img width="800" alt="GitHub statistics for najmulhasandev: 648 contributions in the last 12 months; current streak 2 days; longest streak in that period 12 days; 36 public repositories excluding forks; 7 stars on them." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-light.svg" />
   </picture>
 </p>
 
@@ -261,11 +261,11 @@ Caregiver booking platform with cascading location selectors (district → sub-d
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/heatmap-dark.svg" />
-    <img width="800" alt="Contribution heatmap for the last 12 months: active on 85 days; busiest day Mar 14, 2026 with 40 contributions. Each cell is one day." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/heatmap-light.svg" />
+    <img width="800" alt="Contribution heatmap for the last 12 months: active on 86 days; busiest day Mar 14, 2026 with 40 contributions. Each cell is one day." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/heatmap-light.svg" />
   </picture>
 </p>
 
-<p align="center"><sub>Last 12 months · today counts toward the streak once it has activity · Source: GitHub, updated 2026-10-29 05:42 UTC</sub></p>
+<p align="center"><sub>Last 12 months · today counts toward the streak once it has activity · Source: GitHub, updated 2026-10-29 22:42 UTC</sub></p>
 <!-- github-activity:end -->
 
 </div>
