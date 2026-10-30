@@ -247,7 +247,7 @@ Caregiver booking platform with cascading location selectors (district → sub-d
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-dark.svg" />
-    <img width="800" alt="GitHub statistics for najmulhasandev: 648 contributions in the last 12 months; current streak 2 days; longest streak in that period 12 days; 36 public repositories excluding forks; 7 stars on them." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-light.svg" />
+    <img width="800" alt="GitHub statistics for najmulhasandev: 648 contributions in the last 12 months; current streak 2 days (through yesterday); longest streak in that period 12 days; 36 public repositories excluding forks; 7 stars on them." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-light.svg" />
   </picture>
 </p>
 
@@ -265,7 +265,7 @@ Caregiver booking platform with cascading location selectors (district → sub-d
   </picture>
 </p>
 
-<p align="center"><sub>Last 12 months · today counts toward the streak once it has activity · Source: GitHub, updated 2026-10-29 22:42 UTC</sub></p>
+<p align="center"><sub>Last 12 months · today counts toward the streak once it has activity · Source: GitHub, updated 2026-10-30 05:41 UTC</sub></p>
 <!-- github-activity:end -->
 
 </div>
