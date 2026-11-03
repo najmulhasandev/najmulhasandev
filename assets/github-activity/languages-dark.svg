@@ -1,34 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif">
 <title id="t">Top languages</title>
-<desc id="d">Top languages by bytes across owned public repositories: JavaScript 38.3%, TypeScript 38.2%, Kotlin 13.3%, HTML 5.2%, CSS 4.4%, Python 0.5%, other 0.1%.</desc>
+<desc id="d">Top languages by bytes across owned public repositories: TypeScript 38.4%, JavaScript 38.1%, Kotlin 13.2%, HTML 5.1%, CSS 4.6%, Python 0.5%, other 0.1%.</desc>
 <rect x=".5" y=".5" width="799" height="149" rx="8" fill="#0d1117" stroke="#30363d"/>
 <text x="24" y="30" font-size="14" font-weight="600" fill="#e6edf3">Top languages</text>
 <text x="776" y="30" text-anchor="end" font-size="11" fill="#8b949e">by bytes, owned public repos, excluding forks</text>
 <clipPath id="bar"><rect x="24" y="44" width="752" height="10" rx="5"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="24.00" y="44" width="288.37" height="10" fill="#f1e05a"><title>JavaScript 38.3%</title></rect>
-<rect x="312.37" y="44" width="287.47" height="10" fill="#3178c6"><title>TypeScript 38.2%</title></rect>
-<rect x="599.84" y="44" width="99.98" height="10" fill="#A97BFF"><title>Kotlin 13.3%</title></rect>
-<rect x="699.82" y="44" width="38.73" height="10" fill="#e34c26"><title>HTML 5.2%</title></rect>
-<rect x="738.55" y="44" width="33.07" height="10" fill="#663399"><title>CSS 4.4%</title></rect>
-<rect x="771.62" y="44" width="3.95" height="10" fill="#3572A5"><title>Python 0.5%</title></rect>
+<rect x="24.00" y="44" width="288.43" height="10" fill="#3178c6"><title>TypeScript 38.4%</title></rect>
+<rect x="312.43" y="44" width="286.68" height="10" fill="#f1e05a"><title>JavaScript 38.1%</title></rect>
+<rect x="599.11" y="44" width="99.40" height="10" fill="#A97BFF"><title>Kotlin 13.2%</title></rect>
+<rect x="698.51" y="44" width="38.50" height="10" fill="#e34c26"><title>HTML 5.1%</title></rect>
+<rect x="737.02" y="44" width="34.63" height="10" fill="#663399"><title>CSS 4.6%</title></rect>
+<rect x="771.64" y="44" width="3.92" height="10" fill="#3572A5"><title>Python 0.5%</title></rect>
 <rect x="775.57" y="44" width="0.43" height="10" fill="#6e7681"><title>Other 0.1%</title></rect>
 </g>
-<circle cx="29" cy="84" r="5" fill="#f1e05a"/>
-<text x="40" y="88" font-size="12" fill="#e6edf3">JavaScript</text>
-<text x="196" y="88" text-anchor="end" font-size="12" fill="#8b949e">38.3%</text>
-<circle cx="219" cy="84" r="5" fill="#3178c6"/>
-<text x="230" y="88" font-size="12" fill="#e6edf3">TypeScript</text>
-<text x="386" y="88" text-anchor="end" font-size="12" fill="#8b949e">38.2%</text>
+<circle cx="29" cy="84" r="5" fill="#3178c6"/>
+<text x="40" y="88" font-size="12" fill="#e6edf3">TypeScript</text>
+<text x="196" y="88" text-anchor="end" font-size="12" fill="#8b949e">38.4%</text>
+<circle cx="219" cy="84" r="5" fill="#f1e05a"/>
+<text x="230" y="88" font-size="12" fill="#e6edf3">JavaScript</text>
+<text x="386" y="88" text-anchor="end" font-size="12" fill="#8b949e">38.1%</text>
 <circle cx="409" cy="84" r="5" fill="#A97BFF"/>
 <text x="420" y="88" font-size="12" fill="#e6edf3">Kotlin</text>
-<text x="576" y="88" text-anchor="end" font-size="12" fill="#8b949e">13.3%</text>
+<text x="576" y="88" text-anchor="end" font-size="12" fill="#8b949e">13.2%</text>
 <circle cx="599" cy="84" r="5" fill="#e34c26"/>
 <text x="610" y="88" font-size="12" fill="#e6edf3">HTML</text>
-<text x="766" y="88" text-anchor="end" font-size="12" fill="#8b949e">5.2%</text>
+<text x="766" y="88" text-anchor="end" font-size="12" fill="#8b949e">5.1%</text>
 <circle cx="29" cy="112" r="5" fill="#663399"/>
 <text x="40" y="116" font-size="12" fill="#e6edf3">CSS</text>
-<text x="196" y="116" text-anchor="end" font-size="12" fill="#8b949e">4.4%</text>
+<text x="196" y="116" text-anchor="end" font-size="12" fill="#8b949e">4.6%</text>
 <circle cx="219" cy="112" r="5" fill="#3572A5"/>
 <text x="230" y="116" font-size="12" fill="#e6edf3">Python</text>
 <text x="386" y="116" text-anchor="end" font-size="12" fill="#8b949e">0.5%</text>
