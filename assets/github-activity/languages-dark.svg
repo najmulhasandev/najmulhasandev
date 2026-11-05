@@ -6,12 +6,12 @@
 <text x="776" y="30" text-anchor="end" font-size="11" fill="#8b949e">by bytes, owned public repos, excluding forks</text>
 <clipPath id="bar"><rect x="24" y="44" width="752" height="10" rx="5"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="24.00" y="44" width="288.43" height="10" fill="#3178c6"><title>TypeScript 38.4%</title></rect>
-<rect x="312.43" y="44" width="286.68" height="10" fill="#f1e05a"><title>JavaScript 38.1%</title></rect>
-<rect x="599.11" y="44" width="99.40" height="10" fill="#A97BFF"><title>Kotlin 13.2%</title></rect>
-<rect x="698.51" y="44" width="38.50" height="10" fill="#e34c26"><title>HTML 5.1%</title></rect>
-<rect x="737.02" y="44" width="34.63" height="10" fill="#663399"><title>CSS 4.6%</title></rect>
-<rect x="771.64" y="44" width="3.92" height="10" fill="#3572A5"><title>Python 0.5%</title></rect>
+<rect x="24.00" y="44" width="288.56" height="10" fill="#3178c6"><title>TypeScript 38.4%</title></rect>
+<rect x="312.56" y="44" width="286.60" height="10" fill="#f1e05a"><title>JavaScript 38.1%</title></rect>
+<rect x="599.16" y="44" width="99.37" height="10" fill="#A97BFF"><title>Kotlin 13.2%</title></rect>
+<rect x="698.53" y="44" width="38.49" height="10" fill="#e34c26"><title>HTML 5.1%</title></rect>
+<rect x="737.03" y="44" width="34.62" height="10" fill="#663399"><title>CSS 4.6%</title></rect>
+<rect x="771.65" y="44" width="3.92" height="10" fill="#3572A5"><title>Python 0.5%</title></rect>
 <rect x="775.57" y="44" width="0.43" height="10" fill="#6e7681"><title>Other 0.1%</title></rect>
 </g>
 <circle cx="29" cy="84" r="5" fill="#3178c6"/>
