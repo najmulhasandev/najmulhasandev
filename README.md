@@ -247,25 +247,25 @@ Caregiver booking platform with cascading location selectors (district → sub-d
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-dark.svg" />
-    <img width="800" alt="GitHub statistics for najmulhasandev: 684 contributions in the last 12 months; current streak 1 day; longest streak in that period 12 days; 38 public repositories excluding forks; 6 stars on them." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-light.svg" />
+    <img width="800" alt="GitHub statistics for najmulhasandev: 686 contributions in the last 12 months; current streak 2 days; longest streak in that period 12 days; 38 public repositories excluding forks; 6 stars on them." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/stats-light.svg" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/languages-dark.svg" />
-    <img width="800" alt="Top languages by bytes across owned public repositories: TypeScript 38.6%, JavaScript 37.8%, Kotlin 13.1%, HTML 5.1%, CSS 4.7%, Python 0.6%, other 0.1%." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/languages-light.svg" />
+    <img width="800" alt="Top languages by bytes across owned public repositories: TypeScript 38.7%, JavaScript 37.7%, Kotlin 13.1%, HTML 5.1%, CSS 4.9%, Python 0.6%, other 0.1%." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/languages-light.svg" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/heatmap-dark.svg" />
-    <img width="800" alt="Contribution heatmap for the last 12 months: active on 91 days; busiest day Mar 14, 2026 with 40 contributions. Each cell is one day." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/heatmap-light.svg" />
+    <img width="800" alt="Contribution heatmap for the last 12 months: active on 92 days; busiest day Mar 14, 2026 with 40 contributions. Each cell is one day." src="https://raw.githubusercontent.com/najmulhasandev/najmulhasandev/main/assets/github-activity/heatmap-light.svg" />
   </picture>
 </p>
 
-<p align="center"><sub>Last 12 months · today counts toward the streak once it has activity · Source: GitHub, updated 2026-11-06 06:35 UTC</sub></p>
+<p align="center"><sub>Last 12 months · today counts toward the streak once it has activity · Source: GitHub, updated 2026-11-07 05:53 UTC</sub></p>
 <!-- github-activity:end -->
 
 </div>
