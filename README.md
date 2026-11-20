@@ -265,7 +265,7 @@ Caregiver booking platform with cascading location selectors (district → sub-d
   </picture>
 </p>
 
-<p align="center"><sub>Last 12 months · today counts toward the streak once it has activity · Source: GitHub, updated 2026-11-19 07:18 UTC</sub></p>
+<p align="center"><sub>Last 12 months · today counts toward the streak once it has activity · Source: GitHub, updated 2026-11-20 07:06 UTC</sub></p>
 <!-- github-activity:end -->
 
 </div>
